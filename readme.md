@@ -18,7 +18,7 @@ I am a Junior at Texas A&M University with a passion for new technologies/framew
 
 <br/>
 
-## What I Use
+### What I Use
 | Languages     | Tools/Frameworks |
 | :-----------: |:----------------:|
 | HTML          | Git/Perforce     |
