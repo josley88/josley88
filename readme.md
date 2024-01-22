@@ -31,5 +31,3 @@ I am a Junior at Texas A&M University with a passion for new technologies/framew
 | PostgreSQL    | Agile Development|
 
 <br/>
-
-![Joseph's github stats](https://github-readme-stats.vercel.app/api?username=josley88&show_icons=true&theme=vue-dark)
