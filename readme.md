@@ -5,15 +5,14 @@
 
 <br/>
 
-I am a Junior at Texas A&M University with a passion for new technologies/frameworks and front-end design. I love assembling teams of talented people to develop projects while also having a lot of fun. I am currently looking forward to joining a company that values a healthy growth mindset and prioritizes quality over quantity.
+I am a Senior at Texas A&M University with a passion for new technologies/frameworks and front-end design. I love assembling teams of talented people to develop projects while also having a lot of fun. I am currently looking forward to joining a company that values a healthy growth mindset and prioritizes quality over quantity.
   
 <br/>
   
 **Some Things About Me:**
 
 - 👨🏽‍💻 I’m currently leading Team R.O.V.R. in making a puzzle based video game in Unreal Engine
-- 🌱 I’m currently learning React.js
-- ⚡️ Fun-Fact: I started 
+- 🌱 I’m currently learning Dart
 - 📫 How to reach me: joseph.b.shumway@gmail.com
 
 <br/>
@@ -28,6 +27,6 @@ I am a Junior at Texas A&M University with a passion for new technologies/framew
 | Java          | Ruby on Rails    |
 | JavaScript    | Amazon AWS       |
 | Solidity      | Google Cloud     |
-| PostgreSQL    | Agile Development|
+| SQL           | Agile Development|
 
 <br/>
