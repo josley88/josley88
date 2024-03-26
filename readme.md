@@ -11,8 +11,8 @@ I am a Senior at Texas A&M University with a passion for new technologies/framew
   
 **Some Things About Me:**
 
-- 👨🏽‍💻 I’m currently leading Team R.O.V.R. in making a puzzle based video game in Unreal Engine
-- 🌱 I’m currently learning Dart
+- 👨🏽‍💻 I’m an intern at ATPCO, creating Full Stack software solutions for the airline industry
+- 🌱 I’m currently learning Dart through making a cross platform mobile app for pilots!
 - 📫 How to reach me: joseph.b.shumway@gmail.com
 
 <br/>
@@ -26,7 +26,7 @@ I am a Senior at Texas A&M University with a passion for new technologies/framew
 | C++           | Express.js       |
 | Java          | Ruby on Rails    |
 | JavaScript    | Amazon AWS       |
-| Solidity      | Google Cloud     |
+| Angular       | Google Cloud     |
 | SQL           | Agile Development|
 
 <br/>
